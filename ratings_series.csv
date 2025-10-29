@@ -1,0 +1,651 @@
+user,series,rating
+Jorge,Stranger Things,1
+Pedro,Loki,3
+Sofía,Breaking Bad,2
+Sofía,House of the Dragon,2
+Ana,Breaking Bad,4
+Sofía,The Witcher,2
+Elena,The Crown,5
+Carlos,Friends,4
+Luis,The Boys,3
+Andrés,The Crown,1
+Luis,The Witcher,2
+Carlos,The Office,2
+Luis,The Walking Dead,3
+Lucía,Dark,5
+Carlos,Loki,2
+Andrés,Game of Thrones,1
+Pedro,The Mandalorian,4
+Carlos,Stranger Things,3
+Andrés,Breaking Bad,5
+Lucía,House of the Dragon,4
+Ana,Breaking Bad,4
+Lucía,Stranger Things,3
+Jorge,The Walking Dead,5
+Lucía,House of the Dragon,3
+Andrés,Loki,4
+Andrés,Loki,4
+Carlos,The Crown,4
+Ana,The Office,2
+María,WandaVision,2
+Lucía,Game of Thrones,2
+Ana,The Walking Dead,2
+Carlos,The Office,1
+María,The Crown,2
+Pedro,Dark,1
+Ana,Stranger Things,5
+Lucía,Breaking Bad,2
+Elena,WandaVision,2
+Carlos,Stranger Things,3
+Luis,Stranger Things,3
+Ana,The Office,2
+Luis,The Boys,2
+Carlos,Loki,3
+Jorge,The Office,5
+Lucía,Stranger Things,4
+Sofía,The Mandalorian,2
+Jorge,WandaVision,4
+Luis,Peaky Blinders,2
+Jorge,Peaky Blinders,4
+Andrés,The Mandalorian,2
+Carlos,House of the Dragon,4
+Sofía,The Mandalorian,4
+Ana,Dark,4
+María,Game of Thrones,4
+María,Loki,3
+Andrés,Game of Thrones,2
+Jorge,The Walking Dead,3
+Andrés,Breaking Bad,5
+Pedro,Game of Thrones,3
+Andrés,The Witcher,5
+Elena,Loki,4
+Carlos,Loki,4
+Andrés,Dark,5
+Jorge,Dark,5
+Pedro,Friends,3
+Elena,The Office,5
+Andrés,Game of Thrones,3
+Luis,House of the Dragon,1
+Sofía,Friends,3
+Jorge,The Office,3
+Sofía,Peaky Blinders,4
+María,Loki,3
+Carlos,House of the Dragon,4
+Ana,Breaking Bad,1
+Lucía,The Crown,1
+Andrés,Dark,4
+Sofía,Peaky Blinders,3
+Lucía,The Walking Dead,1
+Ana,The Boys,5
+Jorge,Game of Thrones,2
+Carlos,The Walking Dead,3
+Pedro,The Crown,1
+María,Stranger Things,3
+Sofía,Game of Thrones,3
+María,WandaVision,2
+Lucía,The Office,3
+Lucía,The Crown,5
+María,Breaking Bad,4
+Elena,The Witcher,1
+Ana,The Crown,1
+Sofía,The Mandalorian,5
+Pedro,The Office,2
+Ana,Friends,3
+Sofía,Peaky Blinders,4
+Pedro,Peaky Blinders,3
+Pedro,Stranger Things,5
+Carlos,Stranger Things,2
+María,Breaking Bad,3
+Elena,Loki,2
+Jorge,Game of Thrones,1
+Sofía,Stranger Things,3
+Jorge,The Boys,3
+Andrés,Peaky Blinders,3
+Luis,Loki,3
+Ana,Loki,5
+Pedro,The Mandalorian,3
+Andrés,Friends,5
+Jorge,WandaVision,2
+Elena,The Office,5
+Sofía,The Walking Dead,4
+Lucía,Game of Thrones,4
+Jorge,WandaVision,1
+Pedro,Breaking Bad,1
+Ana,Peaky Blinders,3
+Elena,The Office,4
+Elena,WandaVision,5
+Elena,Breaking Bad,2
+Jorge,Breaking Bad,4
+Lucía,WandaVision,4
+Jorge,Stranger Things,1
+Andrés,The Walking Dead,4
+Pedro,House of the Dragon,5
+Luis,The Walking Dead,2
+Luis,Breaking Bad,1
+Elena,Dark,2
+Pedro,Friends,1
+Carlos,WandaVision,1
+María,Loki,4
+Ana,The Crown,4
+Sofía,House of the Dragon,5
+Sofía,The Walking Dead,5
+Sofía,The Crown,5
+Ana,Breaking Bad,2
+Ana,The Walking Dead,2
+Luis,Breaking Bad,1
+Lucía,The Office,5
+Elena,House of the Dragon,3
+Elena,WandaVision,1
+Luis,Game of Thrones,4
+María,Stranger Things,5
+Sofía,The Witcher,2
+Carlos,Loki,1
+Lucía,Stranger Things,1
+María,The Mandalorian,5
+Ana,The Boys,4
+Carlos,Stranger Things,2
+Elena,Dark,1
+María,The Office,3
+Elena,The Crown,3
+Sofía,Stranger Things,3
+Ana,The Walking Dead,4
+Lucía,The Walking Dead,1
+María,Breaking Bad,4
+Carlos,The Office,2
+Jorge,WandaVision,2
+Elena,The Crown,5
+Jorge,Game of Thrones,2
+Carlos,Loki,3
+Luis,House of the Dragon,1
+María,WandaVision,2
+Andrés,The Mandalorian,2
+Luis,The Walking Dead,2
+María,Loki,3
+Lucía,The Office,5
+Carlos,Stranger Things,2
+Ana,The Walking Dead,2
+Andrés,The Walking Dead,4
+Luis,The Walking Dead,3
+Luis,The Walking Dead,2
+Carlos,The Office,1
+María,The Office,3
+Jorge,The Walking Dead,3
+Luis,Loki,3
+Carlos,Loki,4
+Sofía,House of the Dragon,5
+Elena,Breaking Bad,2
+Andrés,Dark,4
+Elena,Breaking Bad,2
+Jorge,Game of Thrones,2
+Pedro,Peaky Blinders,3
+Jorge,WandaVision,1
+Luis,The Witcher,2
+Andrés,Game of Thrones,3
+Ana,The Office,2
+Ana,The Boys,4
+Lucía,Game of Thrones,4
+Lucía,Stranger Things,1
+Andrés,The Walking Dead,4
+Elena,The Witcher,1
+Sofía,House of the Dragon,5
+Andrés,Game of Thrones,2
+Elena,Loki,4
+Sofía,Stranger Things,3
+María,WandaVision,2
+Elena,Dark,2
+Ana,Breaking Bad,4
+Andrés,Game of Thrones,2
+Elena,The Office,5
+Elena,Breaking Bad,2
+Ana,Friends,3
+Lucía,WandaVision,4
+Ana,The Crown,4
+María,The Office,3
+Ana,Peaky Blinders,3
+Luis,The Walking Dead,3
+María,Loki,4
+Sofía,The Witcher,2
+Ana,Breaking Bad,2
+Ana,Breaking Bad,1
+Andrés,Dark,5
+María,Breaking Bad,4
+Pedro,Dark,1
+Carlos,House of the Dragon,4
+María,Stranger Things,5
+Lucía,Game of Thrones,2
+Andrés,Friends,5
+Sofía,Peaky Blinders,3
+Andrés,The Witcher,5
+Carlos,WandaVision,1
+Jorge,The Walking Dead,5
+Jorge,WandaVision,2
+Elena,Dark,2
+Lucía,Breaking Bad,2
+Andrés,Breaking Bad,5
+Pedro,Stranger Things,5
+Lucía,Stranger Things,1
+Elena,The Office,4
+Carlos,The Office,1
+Elena,The Crown,5
+Carlos,Friends,4
+Andrés,Loki,4
+Ana,The Crown,4
+Ana,Friends,3
+Sofía,Peaky Blinders,3
+Pedro,The Mandalorian,4
+Andrés,Friends,5
+Lucía,The Office,5
+Andrés,The Witcher,5
+Pedro,Dark,1
+Sofía,Peaky Blinders,3
+Pedro,Game of Thrones,3
+Elena,The Office,5
+Sofía,Peaky Blinders,4
+Luis,Stranger Things,3
+Elena,WandaVision,5
+Andrés,Peaky Blinders,3
+Ana,The Crown,1
+Lucía,Stranger Things,4
+Ana,Friends,3
+Elena,The Witcher,1
+Andrés,Game of Thrones,1
+Sofía,The Mandalorian,5
+María,Breaking Bad,4
+Sofía,Stranger Things,3
+María,Loki,4
+Lucía,Game of Thrones,2
+Sofía,The Walking Dead,4
+Andrés,Game of Thrones,2
+Lucía,Game of Thrones,4
+María,The Office,3
+Luis,The Boys,2
+Carlos,The Office,2
+María,Loki,4
+María,Game of Thrones,4
+Luis,House of the Dragon,1
+Andrés,Breaking Bad,5
+Elena,The Office,5
+Jorge,Game of Thrones,1
+Sofía,Peaky Blinders,4
+Elena,The Crown,3
+Sofía,The Mandalorian,5
+María,Loki,4
+Ana,The Walking Dead,2
+Sofía,Breaking Bad,2
+Luis,Breaking Bad,1
+Jorge,The Office,5
+Carlos,The Office,2
+Jorge,WandaVision,2
+María,Breaking Bad,3
+María,Game of Thrones,4
+Pedro,Dark,1
+Elena,House of the Dragon,3
+Carlos,Stranger Things,2
+María,Loki,4
+Lucía,The Office,5
+Pedro,The Crown,1
+Jorge,WandaVision,4
+Jorge,The Boys,3
+Carlos,The Walking Dead,3
+Pedro,House of the Dragon,5
+Ana,The Office,2
+Lucía,The Walking Dead,1
+Carlos,Loki,2
+Elena,WandaVision,1
+Sofía,The Mandalorian,4
+Sofía,House of the Dragon,5
+Elena,WandaVision,2
+Sofía,Breaking Bad,2
+Andrés,Breaking Bad,5
+Elena,The Office,5
+Jorge,WandaVision,1
+Carlos,House of the Dragon,4
+Luis,Breaking Bad,1
+Pedro,Dark,1
+Elena,The Witcher,1
+María,Breaking Bad,4
+Luis,Game of Thrones,4
+Jorge,Peaky Blinders,4
+Jorge,WandaVision,4
+Pedro,Dark,1
+Elena,WandaVision,1
+Ana,Breaking Bad,1
+María,WandaVision,2
+Elena,The Crown,3
+Pedro,The Mandalorian,4
+Elena,The Crown,5
+Jorge,WandaVision,1
+Luis,The Walking Dead,2
+Jorge,The Office,3
+Pedro,Peaky Blinders,3
+Pedro,Peaky Blinders,3
+Ana,Loki,5
+Andrés,Loki,4
+Carlos,House of the Dragon,4
+Elena,The Office,4
+Andrés,Peaky Blinders,3
+Elena,The Office,5
+Jorge,The Boys,3
+Sofía,The Walking Dead,4
+Carlos,Stranger Things,3
+Ana,Dark,4
+Andrés,Dark,5
+Elena,The Crown,3
+Luis,Loki,3
+Sofía,House of the Dragon,2
+Sofía,House of the Dragon,2
+Jorge,Dark,5
+Jorge,The Walking Dead,3
+Jorge,The Boys,3
+Elena,The Office,5
+Jorge,Dark,5
+Jorge,The Walking Dead,5
+Sofía,Breaking Bad,2
+Pedro,Loki,3
+Ana,The Walking Dead,2
+Lucía,House of the Dragon,4
+Jorge,Game of Thrones,2
+Jorge,Stranger Things,1
+Lucía,The Office,3
+Sofía,Game of Thrones,3
+Ana,The Walking Dead,2
+Elena,The Office,5
+Elena,The Crown,3
+Pedro,The Crown,1
+Jorge,Breaking Bad,4
+Carlos,The Office,2
+Sofía,Peaky Blinders,4
+Elena,The Office,5
+María,WandaVision,2
+Jorge,The Office,3
+Sofía,Stranger Things,3
+Sofía,Peaky Blinders,3
+Ana,The Office,2
+María,WandaVision,2
+Luis,House of the Dragon,1
+Jorge,Game of Thrones,2
+Pedro,Friends,3
+Pedro,Breaking Bad,1
+Lucía,House of the Dragon,4
+Sofía,The Witcher,2
+María,Breaking Bad,3
+Pedro,House of the Dragon,5
+María,Loki,3
+Elena,The Office,5
+Elena,The Office,5
+Andrés,Friends,5
+Elena,WandaVision,5
+Andrés,The Witcher,5
+Elena,Loki,4
+Elena,House of the Dragon,3
+Lucía,Stranger Things,3
+Elena,House of the Dragon,3
+Ana,Breaking Bad,1
+Elena,The Crown,3
+Jorge,The Boys,3
+Ana,Breaking Bad,4
+Pedro,Dark,1
+Pedro,Stranger Things,5
+Pedro,House of the Dragon,5
+Luis,Breaking Bad,1
+Sofía,The Mandalorian,4
+Lucía,House of the Dragon,3
+María,Breaking Bad,4
+Carlos,Stranger Things,2
+Andrés,Game of Thrones,1
+Sofía,The Witcher,2
+Sofía,The Walking Dead,5
+Sofía,Stranger Things,3
+Ana,The Walking Dead,4
+Lucía,The Crown,5
+Carlos,Stranger Things,3
+María,Loki,3
+Ana,Dark,4
+María,Stranger Things,5
+Pedro,The Mandalorian,3
+Sofía,The Walking Dead,4
+Carlos,Loki,2
+Jorge,The Boys,3
+Sofía,The Witcher,2
+Sofía,The Crown,5
+María,Loki,3
+Pedro,The Mandalorian,4
+Ana,Stranger Things,5
+Jorge,The Walking Dead,5
+María,Stranger Things,3
+Luis,Breaking Bad,1
+Ana,The Walking Dead,2
+Andrés,The Walking Dead,4
+Jorge,The Office,3
+Sofía,Friends,3
+Andrés,Dark,5
+Elena,WandaVision,2
+Andrés,The Witcher,5
+Jorge,Peaky Blinders,4
+Elena,WandaVision,1
+Sofía,Friends,3
+Carlos,Stranger Things,2
+Pedro,Peaky Blinders,3
+Elena,The Office,4
+Jorge,Stranger Things,1
+Jorge,The Walking Dead,5
+Sofía,The Walking Dead,4
+Sofía,Game of Thrones,3
+Ana,Dark,4
+Jorge,Game of Thrones,2
+Jorge,Peaky Blinders,4
+Lucía,The Crown,5
+Pedro,The Mandalorian,4
+Ana,Friends,3
+Pedro,Friends,3
+Elena,Breaking Bad,2
+Carlos,Stranger Things,2
+Pedro,Game of Thrones,3
+María,The Office,3
+Luis,Loki,3
+Elena,WandaVision,5
+Pedro,The Office,2
+Lucía,Breaking Bad,2
+Sofía,House of the Dragon,2
+Sofía,House of the Dragon,5
+Luis,The Witcher,2
+Lucía,WandaVision,4
+Carlos,Stranger Things,3
+Lucía,Stranger Things,4
+Lucía,House of the Dragon,3
+Andrés,The Mandalorian,2
+Elena,The Crown,3
+Jorge,Game of Thrones,2
+Jorge,WandaVision,2
+Elena,Loki,2
+Elena,The Office,5
+Sofía,The Mandalorian,2
+Carlos,WandaVision,1
+Carlos,The Office,2
+Luis,The Witcher,2
+Lucía,Game of Thrones,2
+Jorge,Peaky Blinders,4
+Pedro,The Mandalorian,4
+Pedro,The Mandalorian,3
+Luis,Loki,3
+Andrés,Breaking Bad,5
+Lucía,The Walking Dead,1
+Ana,The Boys,4
+Elena,Dark,2
+Sofía,Peaky Blinders,4
+Pedro,The Office,2
+María,The Office,3
+Sofía,House of the Dragon,5
+Andrés,Loki,4
+María,Stranger Things,3
+Elena,The Office,5
+Sofía,The Walking Dead,4
+Ana,The Boys,5
+Jorge,Peaky Blinders,4
+Elena,House of the Dragon,3
+Lucía,Stranger Things,4
+Sofía,Breaking Bad,2
+Andrés,Breaking Bad,5
+Sofía,Stranger Things,3
+Pedro,Dark,1
+Andrés,Peaky Blinders,3
+Ana,The Boys,4
+Ana,Stranger Things,5
+Pedro,Game of Thrones,3
+Pedro,Stranger Things,5
+Ana,Dark,4
+Jorge,Stranger Things,1
+María,The Office,3
+Ana,Breaking Bad,1
+Ana,Breaking Bad,4
+Lucía,Stranger Things,3
+Sofía,The Mandalorian,5
+Elena,WandaVision,2
+Elena,The Crown,5
+Ana,Breaking Bad,4
+Pedro,Breaking Bad,1
+Luis,Peaky Blinders,2
+Sofía,The Mandalorian,5
+María,The Office,3
+Sofía,The Witcher,2
+Ana,Breaking Bad,2
+Pedro,Friends,3
+Elena,WandaVision,2
+Pedro,Loki,3
+Ana,Breaking Bad,2
+Elena,WandaVision,2
+Andrés,The Mandalorian,2
+Elena,WandaVision,2
+Carlos,House of the Dragon,4
+Ana,Breaking Bad,4
+Ana,The Office,2
+Sofía,Stranger Things,3
+Luis,Game of Thrones,4
+Ana,The Walking Dead,2
+Jorge,WandaVision,1
+Elena,The Witcher,1
+Elena,WandaVision,5
+Andrés,Game of Thrones,2
+Ana,The Walking Dead,4
+Sofía,The Crown,5
+Sofía,Friends,3
+Luis,The Walking Dead,3
+Sofía,Game of Thrones,3
+Andrés,The Walking Dead,4
+Elena,The Crown,5
+Elena,WandaVision,5
+Sofía,House of the Dragon,5
+Elena,Dark,1
+Carlos,The Office,1
+Pedro,Dark,1
+Jorge,Game of Thrones,1
+Pedro,The Office,2
+María,Game of Thrones,4
+Elena,The Crown,5
+Andrés,Friends,5
+Elena,WandaVision,2
+Elena,The Office,4
+Jorge,Game of Thrones,1
+Elena,Dark,2
+Andrés,Game of Thrones,3
+Elena,Breaking Bad,2
+Pedro,Peaky Blinders,3
+Elena,House of the Dragon,3
+Ana,The Crown,1
+Andrés,Peaky Blinders,3
+Sofía,House of the Dragon,5
+Luis,The Boys,2
+Elena,Dark,2
+María,Breaking Bad,3
+Ana,Friends,3
+Lucía,Game of Thrones,4
+Luis,The Witcher,2
+Sofía,The Crown,5
+Lucía,Game of Thrones,2
+Carlos,Loki,3
+Elena,The Office,5
+Jorge,The Office,5
+Ana,Dark,4
+Jorge,Dark,5
+Elena,The Office,5
+Carlos,Stranger Things,3
+Sofía,The Witcher,2
+María,Loki,3
+Sofía,The Walking Dead,4
+Sofía,The Walking Dead,4
+Jorge,The Walking Dead,3
+María,Breaking Bad,4
+Jorge,The Office,3
+Elena,Loki,2
+Lucía,The Office,5
+Carlos,Stranger Things,2
+Lucía,Stranger Things,1
+Andrés,The Crown,1
+Ana,The Office,2
+Andrés,The Witcher,5
+Lucía,Stranger Things,3
+Lucía,Stranger Things,4
+María,Game of Thrones,4
+Lucía,The Office,3
+Sofía,The Mandalorian,4
+Lucía,Stranger Things,1
+Ana,Breaking Bad,1
+Sofía,Stranger Things,3
+Elena,Dark,1
+Ana,Breaking Bad,2
+Andrés,Loki,4
+Jorge,WandaVision,2
+Lucía,The Crown,1
+Lucía,Game of Thrones,4
+Elena,WandaVision,5
+Luis,House of the Dragon,1
+Luis,Game of Thrones,4
+Carlos,Loki,1
+Luis,Breaking Bad,1
+Luis,Breaking Bad,1
+Pedro,Game of Thrones,3
+Lucía,House of the Dragon,4
+Andrés,Loki,4
+Lucía,Game of Thrones,4
+Carlos,House of the Dragon,4
+Jorge,The Walking Dead,3
+Carlos,Stranger Things,2
+Sofía,The Mandalorian,2
+Pedro,The Mandalorian,3
+Pedro,Loki,3
+Jorge,WandaVision,2
+María,Breaking Bad,4
+Luis,Game of Thrones,4
+Ana,Dark,4
+Andrés,Dark,5
+Jorge,The Office,3
+Ana,The Boys,5
+Sofía,The Mandalorian,4
+Elena,The Office,5
+María,Loki,4
+Lucía,The Crown,1
+Jorge,The Boys,3
+Ana,Breaking Bad,4
+Carlos,Stranger Things,3
+Lucía,Stranger Things,3
+Lucía,The Crown,1
+Luis,Peaky Blinders,2
+Carlos,Loki,1
+Ana,Stranger Things,5
+Luis,Game of Thrones,4
+Luis,Peaky Blinders,2
+Ana,Friends,3
+Elena,Dark,1
+Elena,Loki,2
+Andrés,Game of Thrones,3
+Lucía,The Crown,5
+Carlos,The Crown,4
+Ana,The Office,2
+Luis,The Walking Dead,3
+Lucía,Game of Thrones,2
+Ana,The Walking Dead,2
+Elena,The Crown,3
+María,The Mandalorian,5
+Sofía,Game of Thrones,3
+Lucía,The Walking Dead,1
+María,Breaking Bad,3
