@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # === CARGA DE DATOS (Capa Batch) ===
 # Usa la ruta completa a tu archivo CSV o asegúrate de que esté en el mismo directorio del script
-data = pd.read_csv(r"C:\Users\user\OneDrive\Documentos\cuarto ciclo\Marco de Referencia\Trabajo28\ratings_series.csv")
+data = pd.read_csv(ratings_series.csv)
 
 # Verifica las primeras filas
 st.title("🎬 Recomendador de Series (Arquitectura Lambda)")
@@ -72,5 +72,6 @@ if serie_input:
     st.success(f"✅ Recomendaciones actualizadas basadas en '{serie_input}':")
     for r in recomendaciones_actualizadas:
         st.write(f"- {r}") 
+
 
         
