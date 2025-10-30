@@ -6,11 +6,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 # === CARGA DE DATOS (Capa Batch) ===
 # Usa la ruta completa a tu archivo CSV o asegúrate de que esté en el mismo directorio del script
 data = pd.read_csv("ratings_series.csv")
-
-# Verifica las primeras filas
+# Título principal
 st.title("🎬 Recomendador de Series (Arquitectura Lambda)")
-st.subheader("Vista previa de los datos cargados:")
-st.dataframe(data.head())
 
 # === PROCESAMIENTO BATCH ===
 # Matriz usuario-serie
@@ -31,7 +28,6 @@ def recomendar_series(series_name, n_recomendaciones=5):
     return similar_series.index.tolist()
 
 # === STREAMLIT INTERFAZ ===
-
 st.subheader("Capa Batch + Capa de Velocidad + Capa de Servicio")
 
 # Selección de serie
@@ -52,10 +48,9 @@ nueva_valoracion = st.slider("Valoración (1 a 5)", 1, 5, 3)
 
 if st.button("Agregar valoración"):
     nueva_fila = pd.DataFrame({
-    'user': [usuario_nuevo],
-    'series': [serie_nueva],
-    'rating': [nueva_valoracion]
-
+        'user': [usuario_nuevo],
+        'series': [serie_nueva],
+        'rating': [nueva_valoracion]
     })
     data = pd.concat([data, nueva_fila], ignore_index=True)
     st.success("⭐ Valoración añadida correctamente (simulada en tiempo real)")
@@ -65,14 +60,15 @@ if st.button("Agregar valoración"):
         index=user_series_matrix.columns,
         columns=user_series_matrix.columns
     )
+
 st.info("💡 La nueva valoración se ha incorporado a los datos y actualizará las recomendaciones futuras.")
 st.subheader("🔍 Recomendaciones Actualizadas")
 if serie_input:
     recomendaciones_actualizadas = recomendar_series(serie_input)
     st.success(f"✅ Recomendaciones actualizadas basadas en '{serie_input}':")
     for r in recomendaciones_actualizadas:
-        st.write(f"- {r}") 
-
+        st.write(f"- {r}")
 
         
+
 
